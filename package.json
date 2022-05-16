@@ -1,0 +1,22 @@
+{
+  "name": "lpauzies",
+  "version": "1.0.0",
+  "description": "My name is Lucas Pauzies and I am a <b>Fullstack Developer</b> from <img src=\"https://cdn-icons-png.flaticon.com/512/197/197560.png\" width=\"13\"/> <b>Pau, France</b>. <br>\r I can do multiple thing such as <b>DevOps</b>, <b>Data Engineering</b> and <b>Data Science</b> too.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LPauzies/LPauzies.git"
+  },
+  "author": "LPauzies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LPauzies/LPauzies/issues"
+  },
+  "homepage": "https://github.com/LPauzies/LPauzies#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
