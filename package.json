@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/LPauzies/LPauzies#readme",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "mustache": "^4.2.0",
+    "sync-request": "^6.1.0"
   }
 }
