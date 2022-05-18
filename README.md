@@ -1,6 +1,6 @@
 # Hello there ! Nice to meet you <img src="assets/img/pepe-excited.gif" alt="Girl in a jacket" width="30">
 
-My name is Lucas Pauzies and I am a <b>Fullstack Developer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Pau, France</b>. 
+My name is Lucas Pauzies, I am 25 years old and I am a <b>Fullstack Developer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Pau, France</b> since 3 years now. 
 <br>
 I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science</b>.
 
@@ -121,7 +121,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;twitch-companion"><b>twitch-companion</b></a></td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;twitch-companion?style=flat&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;twitch-companion?style=flat&labelColor=343b41"/></td>
-            <td>Twitch Companion browser extension</td>
+            <td>Twitch Companion browser extension : https:&#x2F;&#x2F;addons.mozilla.org&#x2F;fr&#x2F;firefox&#x2F;addon&#x2F;twitch-companion&#x2F;</td>
         </tr>
   </tbody>
 </table>
@@ -146,7 +146,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ---
 <h5 align="center">This README file is updated every 12 hours.</h5>
-<h5 align="center">Last refresh: Monday, 16 May, 18:08 CEST</h5>
+<h5 align="center">Last refresh: Wednesday, 18 May, 14:05 CEST</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
