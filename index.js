@@ -41,10 +41,10 @@ function getRepositories() {
 }
 
 function readJSON(path) {
-  return JSON.parse(fs.readFileSync(path, 'utf8'));
+  return JSON.parse(fs.readFileSync(path, "utf8"));
 }
 
-function generateBadgeData() {
+function generateBadgesData() {
   return [
     readJSON("assets/data/languages.json"),
     readJSON("assets/data/frameworks.json"),
@@ -54,7 +54,7 @@ function generateBadgeData() {
     readJSON("assets/data/cloud.json"),
     readJSON("assets/data/versionning.json"),
     readJSON("assets/data/cicd.json"),
-    readJSON("assets/data/container.json")
+    readJSON("assets/data/container.json"),
   ];
 }
 
