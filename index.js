@@ -4,6 +4,9 @@ const fs = require("fs");
 const request = require("sync-request");
 const MUSTACHE_MAIN_DIR = "./main.mustache";
 
+const birthday = "11/25/1996";
+const firstExperience = "09/01/2018";
+
 /* Some logic here */
 function generateDataForRepository(repository) {
   var path = "LPauzies/" + repository;
@@ -16,7 +19,6 @@ function generateDataForRepository(repository) {
   return {
     name: repository,
     link: body.svn_url,
-    language: body.language,
     path: path,
     description: body.description,
   };
@@ -50,10 +52,10 @@ function readJSON(path) {
 let DATA = {
   name: "Lucas Pauzies",
   age: Math.abs(
-    new Date(new Date() - new Date("11/25/1996")).getUTCFullYear() - 1970
+    new Date(new Date() - new Date(birthday)).getUTCFullYear() - 1970
   ),
   experience: Math.abs(
-    new Date(new Date() - new Date("09/01/2018")).getUTCFullYear() - 1970
+    new Date(new Date() - new Date(firstExperience)).getUTCFullYear() - 1970
   ),
   date: new Date().toLocaleDateString("en-GB", {
     weekday: "long",
