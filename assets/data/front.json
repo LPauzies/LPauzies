@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Angular",
+        "link": "https://angular.io/",
+        "style": "flat",
+        "logo": "angular",
+        "background_color": "DD0031",
+        "logo_color": "white"
+    },
+    {
+        "name": "VueJS",
+        "link": "https://vuejs.org/",
+        "style": "flat",
+        "logo": "vue.js",
+        "background_color": "4FC08D",
+        "logo_color": "white"
+    },
+    {
+        "name": "Svelte",
+        "link": "https://svelte.dev/",
+        "style": "flat",
+        "logo": "svelte",
+        "background_color": "FF3E00",
+        "logo_color": "white"
+    },
+    {
+        "name": "D3.js",
+        "link": "https://d3js.org/",
+        "style": "flat-square",
+        "logo": "d3.js",
+        "background_color": "F9A03C",
+        "logo_color": "white"
+    },
+    {
+        "name": "Chart.js",
+        "link": "https://www.chartjs.org/",
+        "style": "flat-square",
+        "logo": "chart.js",
+        "background_color": "FF6384",
+        "logo_color": "white"
+    },
+    {
+        "name": "Plotly",
+        "link": "https://plotly.com/javascript/",
+        "style": "flat-square",
+        "logo": "plotly",
+        "background_color": "3F4F75",
+        "logo_color": "white"
+    },
+    {
+        "name": "NPM",
+        "link": "https://www.npmjs.com/",
+        "style": "flat-square",
+        "logo": "npm",
+        "background_color": "CB3837",
+        "logo_color": "white"
+    },
+    {
+        "name": "Sass",
+        "link": "https://sass-lang.com/",
+        "style": "flat-square",
+        "logo": "sass",
+        "background_color": "CC6699",
+        "logo_color": "white"
+    }
+]

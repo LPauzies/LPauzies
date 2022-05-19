@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Azure Pipelines",
+        "link": "https://azure.microsoft.com/fr-fr/services/devops/pipelines/",
+        "style": "flat",
+        "logo": "azurepipelines",
+        "background_color": "2560E0",
+        "logo_color": "white"
+    },
+    {
+        "name": "Github Actions",
+        "link": "https://docs.github.com/en/actions",
+        "style": "flat",
+        "logo": "githubactions",
+        "background_color": "2088FF",
+        "logo_color": "white"
+    },
+    {
+        "name": "Gitlab CI",
+        "link": "https://docs.gitlab.com/ee/ci/",
+        "style": "flat",
+        "logo": "gitlab",
+        "background_color": "FC6D26",
+        "logo_color": "white"
+    }
+]

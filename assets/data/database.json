@@ -1,0 +1,50 @@
+[
+    {
+        "name": "SQLite",
+        "link": "https://www.sqlite.org/",
+        "style": "flat",
+        "logo": "sqlite",
+        "background_color": "003B57",
+        "logo_color": "white"
+    },
+    {
+        "name": "MySQL",
+        "link": "https://www.mysql.com/",
+        "style": "flat",
+        "logo": "mysql",
+        "background_color": "4479A1",
+        "logo_color": "white"
+    },
+    {
+        "name": "PostgreSQL",
+        "link": "https://www.postgresql.org/",
+        "style": "flat",
+        "logo": "postgresql",
+        "background_color": "4169E1",
+        "logo_color": "white"
+    },
+    {
+        "name": "SQL Server",
+        "link": "https://www.microsoft.com/fr-fr/sql-server/",
+        "style": "flat",
+        "logo": "microsoftsqlserver",
+        "background_color": "CC2927",
+        "logo_color": "white"
+    },
+    {
+        "name": "MongoDB",
+        "link": "https://www.mongodb.com/",
+        "style": "flat",
+        "logo": "mongodb",
+        "background_color": "47A248",
+        "logo_color": "white"
+    },
+    {
+        "name": "Redis",
+        "link": "https://redis.io/",
+        "style": "flat",
+        "logo": "redis",
+        "background_color": "DC382D",
+        "logo_color": "white"
+    }
+]

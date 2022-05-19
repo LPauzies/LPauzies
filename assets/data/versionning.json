@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Azure DevOps",
+        "link": "https://azure.microsoft.com/fr-fr/services/devops/",
+        "style": "flat",
+        "logo": "azuredevops",
+        "background_color": "0078D4",
+        "logo_color": "white"
+    },
+    {
+        "name": "Github",
+        "link": "https://github.com/",
+        "style": "flat",
+        "logo": "github",
+        "background_color": "181717",
+        "logo_color": "white"
+    },
+    {
+        "name": "Gitlab",
+        "link": "https://gitlab.com/",
+        "style": "flat",
+        "logo": "gitlab",
+        "background_color": "FC6D26",
+        "logo_color": "white"
+    },
+    {
+        "name": "Bitbucket",
+        "link": "https://bitbucket.org/",
+        "style": "flat",
+        "logo": "bitbucket",
+        "background_color": "0052CC",
+        "logo_color": "white"
+    }
+]

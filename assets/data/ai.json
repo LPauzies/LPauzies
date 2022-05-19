@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Pandas",
+        "link": "https://pandas.pydata.org/",
+        "style": "flat",
+        "logo": "pandas",
+        "background_color": "150458",
+        "logo_color": "white"
+    },
+    {
+        "name": "Jupyter",
+        "link": "https://jupyter.org/",
+        "style": "flat",
+        "logo": "jupyter",
+        "background_color": "F37626",
+        "logo_color": "white"
+    },
+    {
+        "name": "TensorFlow",
+        "link": "https://www.tensorflow.org/",
+        "style": "flat",
+        "logo": "tensorflow",
+        "background_color": "FF6F00",
+        "logo_color": "white"
+    },
+    {
+        "name": "Keras",
+        "link": "https://keras.io/",
+        "style": "flat",
+        "logo": "keras",
+        "background_color": "D00000",
+        "logo_color": "white"
+    },
+    {
+        "name": "Scikit Learn",
+        "link": "https://scikit-learn.org/",
+        "style": "flat",
+        "logo": "scikitlearn",
+        "background_color": "F7931E",
+        "logo_color": "white"
+    },
+    {
+        "name": "Apache Spark",
+        "link": "https://spark.apache.org/",
+        "style": "flat",
+        "logo": "apachespark",
+        "background_color": "E25A1C",
+        "logo_color": "white"
+    },
+    {
+        "name": "PyPI",
+        "link": "https://pypi.org/",
+        "style": "flat",
+        "logo": "PyPI",
+        "background_color": "3775A9",
+        "logo_color": "white"
+    }
+]
