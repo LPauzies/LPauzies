@@ -6,7 +6,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ## Some technologies I am used to use <img src="assets/img/pepe-hacker.gif" alt="Pepe hacker" width="30">
 
-<p>
+  <p>
     <a href="https:&#x2F;&#x2F;www.python.org&#x2F;">
       <img alt="Python" src="https://img.shields.io/badge/-Python-336E9D?style=flat&logo=python&logoColor=white" />
     </a>
@@ -31,9 +31,8 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     <a href="https:&#x2F;&#x2F;fr.wikibooks.org&#x2F;wiki&#x2F;Programmation_Bash&#x2F;Introduction">
       <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
     </a>
-</p>
-
-<p>
+  </p>
+  <p>
     <a href="https:&#x2F;&#x2F;flask.palletsprojects.com&#x2F;">
       <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
     </a>
@@ -55,9 +54,8 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     <a href="https:&#x2F;&#x2F;docs.microsoft.com&#x2F;fr-fr&#x2F;dotnet&#x2F;core&#x2F;introduction">
       <img alt=".NET Core" src="https://img.shields.io/badge/-.NET Core-592C8C?style=flat&logo=.net&logoColor=white" />
     </a>
-</p>
-
-<p>
+  </p>
+  <p>
     <a href="https:&#x2F;&#x2F;pandas.pydata.org&#x2F;">
       <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
     </a>
@@ -79,9 +77,8 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     <a href="https:&#x2F;&#x2F;pypi.org&#x2F;">
       <img alt="PyPI" src="https://img.shields.io/badge/-PyPI-3775A9?style=flat&logo=PyPI&logoColor=white" />
     </a>
-</p>
-
-<p>
+  </p>
+  <p>
     <a href="https:&#x2F;&#x2F;angular.io&#x2F;">
       <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
     </a>
@@ -106,9 +103,8 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     <a href="https:&#x2F;&#x2F;sass-lang.com&#x2F;">
       <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     </a>
-</p>
-
-<p>
+  </p>
+  <p>
     <a href="https:&#x2F;&#x2F;www.sqlite.org&#x2F;">
       <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
     </a>
@@ -127,18 +123,16 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     <a href="https:&#x2F;&#x2F;redis.io&#x2F;">
       <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
     </a>
-</p>
-
-<p>
+  </p>
+  <p>
     <a href="https:&#x2F;&#x2F;azure.microsoft.com&#x2F;">
       <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
     </a>
     <a href="https:&#x2F;&#x2F;aws.amazon.com&#x2F;">
       <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
     </a>
-</p>
-
-<p>
+  </p>
+  <p>
     <a href="https:&#x2F;&#x2F;azure.microsoft.com&#x2F;fr-fr&#x2F;services&#x2F;devops&#x2F;">
       <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white" />
     </a>
@@ -151,9 +145,8 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     <a href="https:&#x2F;&#x2F;bitbucket.org&#x2F;">
       <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" />
     </a>
-</p>
-
-<p>
+  </p>
+  <p>
     <a href="https:&#x2F;&#x2F;azure.microsoft.com&#x2F;fr-fr&#x2F;services&#x2F;devops&#x2F;pipelines&#x2F;">
       <img alt="Azure Pipelines" src="https://img.shields.io/badge/-Azure Pipelines-2560E0?style=flat&logo=azurepipelines&logoColor=white" />
     </a>
@@ -163,9 +156,8 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     <a href="https:&#x2F;&#x2F;docs.gitlab.com&#x2F;ee&#x2F;ci&#x2F;">
       <img alt="Gitlab CI" src="https://img.shields.io/badge/-Gitlab CI-FC6D26?style=flat&logo=gitlab&logoColor=white" />
     </a>
-</p>
-
-<p>
+  </p>
+  <p>
     <a href="https:&#x2F;&#x2F;www.docker.com&#x2F;">
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
     </a>
@@ -175,7 +167,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     <a href="https:&#x2F;&#x2F;kubernetes.io&#x2F;">
       <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
     </a>
-</p>
+  </p>
 
 ## Notable projects <img src="assets/img/pepenerd.png" alt="Pepe hacker" width="30">
 
@@ -183,7 +175,6 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
   <thead align="center">
     <tr border: none;>
       <td><b>💻 Projects</b></td>
-      <td><b>🤖 Language</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>📝 Description</b></td>
@@ -192,35 +183,30 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
   <tbody>
         <tr>
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;finals-shooting-simulator"><b>finals-shooting-simulator</b></a></td>
-            <td>TypeScript</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;finals-shooting-simulator?style=flat&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;finals-shooting-simulator?style=flat&labelColor=343b41"/></td>
             <td>A Finals Shooting Simulator designed for Professional trainers.</td>
         </tr>
         <tr>
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;home-network-monitoring"><b>home-network-monitoring</b></a></td>
-            <td>Shell</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;home-network-monitoring?style=flat&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;home-network-monitoring?style=flat&labelColor=343b41"/></td>
             <td>Monitor your network at home</td>
         </tr>
         <tr>
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;ia-z"><b>ia-z</b></a></td>
-            <td></td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;ia-z?style=flat&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;ia-z?style=flat&labelColor=343b41"/></td>
             <td>Dépôt pour le cours d&#39;IA par la communauté @DefendIntelligence.</td>
         </tr>
         <tr>
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;LPauzies"><b>LPauzies</b></a></td>
-            <td>Mustache</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;LPauzies?style=flat&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;LPauzies?style=flat&labelColor=343b41"/></td>
             <td>LPauzies Github Homepage</td>
         </tr>
         <tr>
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;twitch-companion"><b>twitch-companion</b></a></td>
-            <td>JavaScript</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;twitch-companion?style=flat&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;twitch-companion?style=flat&labelColor=343b41"/></td>
             <td>Twitch Companion browser extension : https:&#x2F;&#x2F;addons.mozilla.org&#x2F;fr&#x2F;firefox&#x2F;addon&#x2F;twitch-companion&#x2F;</td>
@@ -248,7 +234,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ---
 <h5 align="center">This README file is updated every 12 hours.</h5>
-<h5 align="center">Last refresh: Thursday, 19 May, 15:59 CEST</h5>
+<h5 align="center">Last refresh: Thursday, 19 May, 17:20 CEST</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
