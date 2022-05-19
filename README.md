@@ -183,7 +183,6 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
   <thead align="center">
     <tr border: none;>
       <td><b>💻 Projects</b></td>
-      <td><b>🤖 Language</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>📝 Description</b></td>
@@ -192,35 +191,30 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
   <tbody>
         <tr>
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;finals-shooting-simulator"><b>finals-shooting-simulator</b></a></td>
-            <td>TypeScript</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;finals-shooting-simulator?style=flat&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;finals-shooting-simulator?style=flat&labelColor=343b41"/></td>
             <td>A Finals Shooting Simulator designed for Professional trainers.</td>
         </tr>
         <tr>
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;home-network-monitoring"><b>home-network-monitoring</b></a></td>
-            <td>Shell</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;home-network-monitoring?style=flat&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;home-network-monitoring?style=flat&labelColor=343b41"/></td>
             <td>Monitor your network at home</td>
         </tr>
         <tr>
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;ia-z"><b>ia-z</b></a></td>
-            <td></td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;ia-z?style=flat&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;ia-z?style=flat&labelColor=343b41"/></td>
             <td>Dépôt pour le cours d&#39;IA par la communauté @DefendIntelligence.</td>
         </tr>
         <tr>
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;LPauzies"><b>LPauzies</b></a></td>
-            <td>Mustache</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;LPauzies?style=flat&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;LPauzies?style=flat&labelColor=343b41"/></td>
             <td>LPauzies Github Homepage</td>
         </tr>
         <tr>
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;twitch-companion"><b>twitch-companion</b></a></td>
-            <td>JavaScript</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;twitch-companion?style=flat&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;twitch-companion?style=flat&labelColor=343b41"/></td>
             <td>Twitch Companion browser extension : https:&#x2F;&#x2F;addons.mozilla.org&#x2F;fr&#x2F;firefox&#x2F;addon&#x2F;twitch-companion&#x2F;</td>
@@ -248,7 +242,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ---
 <h5 align="center">This README file is updated every 12 hours.</h5>
-<h5 align="center">Last refresh: Thursday, 19 May, 16:07 CEST</h5>
+<h5 align="center">Last refresh: Thursday, 19 May, 17:13 CEST</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
