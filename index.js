@@ -38,6 +38,10 @@ function getRepositories() {
   return repos;
 }
 
+function readJSON(path) {
+  return JSON.parse(fs.readFileSync(path, 'utf8'));
+}
+
 /**
  * DATA is the object that contains all
  * the data to be provided to Mustache
@@ -60,6 +64,15 @@ let DATA = {
     timeZoneName: "short",
     timeZone: "Europe/Paris",
   }),
+  languages: readJSON("assets/data/languages.json"),
+  frameworks: readJSON("assets/data/frameworks.json"),
+  ai: readJSON("assets/data/ai.json"),
+  front: readJSON("assets/data/front.json"),
+  cicd: readJSON("assets/data/cicd.json"),
+  cloud: readJSON("assets/data/cloud.json"),
+  container: readJSON("assets/data/container.json"),
+  database: readJSON("assets/data/database.json"),
+  versionning: readJSON("assets/data/versionning.json"),
   projects: getRepositories().map((repo) => generateDataForRepository(repo)),
 };
 /**

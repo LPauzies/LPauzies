@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Docker",
+        "link": "https://www.docker.com/",
+        "style": "flat",
+        "logo": "docker",
+        "background_color": "2496ED",
+        "logo_color": "white"
+    },
+    {
+        "name": "Docker Compose",
+        "link": "https://docs.docker.com/compose/",
+        "style": "flat",
+        "logo": "docker",
+        "background_color": "2496ED",
+        "logo_color": "white"
+    },
+    {
+        "name": "Kubernetes",
+        "link": "https://kubernetes.io/",
+        "style": "flat",
+        "logo": "kubernetes",
+        "background_color": "326CE5",
+        "logo_color": "white"
+    }
+]
