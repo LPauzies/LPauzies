@@ -217,10 +217,6 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 ## Quick overview of my Github Profile <img src="assets/img/ez_pepe.png" alt="Pepe EZ" width="30">
 [![Lucas's Github stats](https://github-readme-stats.vercel.app/api?username=LPauzies&hide=issues&count_private=true&theme=dracula)](https://github.com/LPauzies)
 
-## A meme for you because you deserve it <img src="assets/img/pepehonk.png" alt="Pepe Clown" width="30">
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width=300>
-
 ## Where to find me <img src="assets/img/pepe_happyclap.gif" alt="Pepe clap" width="30">
 
 <p>
@@ -234,7 +230,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ---
 <h5 align="center">This README file is updated every 12 hours.</h5>
-<h5 align="center">Last refresh: Monday, 27 June, 02:48 CEST</h5>
+<h5 align="center">Last refresh: Monday, 27 June, 11:16 CEST</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
