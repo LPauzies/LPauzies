@@ -185,7 +185,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;i18n-generator"><b>i18n-generator</b></a></td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;i18n-generator?style=flat&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;i18n-generator?style=flat&labelColor=343b41"/></td>
-            <td>i18n implementation as script for international applications : https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;i18n-generator</td>
+            <td>i18n implementation as package for international applications : https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;i18n-generator</td>
         </tr>
         <tr>
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;finals-shooting-simulator"><b>finals-shooting-simulator</b></a></td>
@@ -230,7 +230,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ---
 <h5 align="center">This README file is updated every 12 hours.</h5>
-<h5 align="center">Last refresh: Monday, 18 July, 14:21 CEST</h5>
+<h5 align="center">Last refresh: Tuesday, 19 July, 02:52 CEST</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
