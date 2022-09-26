@@ -1,6 +1,6 @@
 # Hello there ! Nice to meet you <img src="assets/img/pepe-excited.gif" alt="Girl in a jacket" width="30">
 
-My name is Lucas Pauzies, I am 25 years old and I am a <b>Fullstack Developer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Pau, France</b> since 4 years now. 
+My name is Lucas Pauzies, I am 25 years old and I am a <b>Fullstack Developer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Pau, France</b> since 5 years now. 
 <br>
 I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science</b>.
 
@@ -230,7 +230,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ---
 <h5 align="center">This README file is updated every 12 hours.</h5>
-<h5 align="center">Last refresh: Monday, 26 September at 02:56 CEST</h5>
+<h5 align="center">Last refresh: Monday, 26 September at 10:55 CEST</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
