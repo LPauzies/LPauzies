@@ -5,7 +5,7 @@ const request = require("sync-request");
 const MUSTACHE_MAIN_DIR = "./main.mustache";
 
 const birthday = "11/25/1996";
-const firstExperience = "09/01/2018";
+const firstExperience = "01/06/2017";
 
 /* Some logic here */
 function generateDataForRepository(repository) {
