@@ -188,6 +188,12 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
             <td>i18n implementation as package for international applications : https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;i18n-generator</td>
         </tr>
         <tr>
+            <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;LPauzies"><b>LPauzies</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;LPauzies?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;LPauzies?style=flat&labelColor=343b41"/></td>
+            <td>LPauzies Github Homepage</td>
+        </tr>
+        <tr>
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;finals-shooting-simulator"><b>finals-shooting-simulator</b></a></td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;finals-shooting-simulator?style=flat&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;finals-shooting-simulator?style=flat&labelColor=343b41"/></td>
@@ -204,12 +210,6 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
             <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;ia-z?style=flat&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;ia-z?style=flat&labelColor=343b41"/></td>
             <td>Dépôt pour le cours d&#39;IA par la communauté @DefendIntelligence.</td>
-        </tr>
-        <tr>
-            <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;LPauzies"><b>LPauzies</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;LPauzies?style=flat&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;LPauzies?style=flat&labelColor=343b41"/></td>
-            <td>LPauzies Github Homepage</td>
         </tr>
   </tbody>
 </table>
@@ -230,7 +230,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ---
 <h5 align="center">This README file is updated every 12 hours.</h5>
-<h5 align="center">Last refresh: Tuesday, 8 November at 01:48 CET</h5>
+<h5 align="center">Last refresh: Tuesday, 8 November at 13:20 CET</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
