@@ -1,6 +1,6 @@
 # Hello there ! Nice to meet you <img src="assets/img/pepe-excited.gif" alt="Girl in a jacket" width="30">
 
-My name is Lucas Pauzies, I am 26 years old and I am a <b>Fullstack Developer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Pau, France</b> since 6 years now. 
+My name is Lucas Pauzies, I am 26 years old and I am a <b>Software Engineer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Pau, France</b> since 6 years now. 
 <br>
 I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science</b>.
 
@@ -188,16 +188,16 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
             <td>i18n implementation as package for international applications : https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;i18n-generator</td>
         </tr>
         <tr>
-            <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;twitch-companion"><b>twitch-companion</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;twitch-companion?style=flat&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;twitch-companion?style=flat&labelColor=343b41"/></td>
-            <td>Twitch Companion browser extension : https:&#x2F;&#x2F;addons.mozilla.org&#x2F;fr&#x2F;firefox&#x2F;addon&#x2F;twitch-companion&#x2F;</td>
-        </tr>
-        <tr>
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;LPauzies"><b>LPauzies</b></a></td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;LPauzies?style=flat&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;LPauzies?style=flat&labelColor=343b41"/></td>
             <td>LPauzies Github Homepage</td>
+        </tr>
+        <tr>
+            <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;twitch-companion"><b>twitch-companion</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/LPauzies&#x2F;twitch-companion?style=flat&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/LPauzies&#x2F;twitch-companion?style=flat&labelColor=343b41"/></td>
+            <td>Twitch Companion browser extension : https:&#x2F;&#x2F;addons.mozilla.org&#x2F;fr&#x2F;firefox&#x2F;addon&#x2F;twitch-companion&#x2F;</td>
         </tr>
         <tr>
             <td><a href="https:&#x2F;&#x2F;github.com&#x2F;LPauzies&#x2F;finals-shooting-simulator"><b>finals-shooting-simulator</b></a></td>
@@ -230,7 +230,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ---
 <h5 align="center">This README file is updated every 12 hours.</h5>
-<h5 align="center">Last refresh: Thursday, 22 June at 03:39 CEST</h5>
+<h5 align="center">Last refresh: Sunday, 25 June at 19:10 CEST</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
