@@ -23,12 +23,4 @@
         "background_color": "FC6D26",
         "logo_color": "white"
     },
-    {
-        "name": "Bitbucket",
-        "link": "https://bitbucket.org/",
-        "style": "flat",
-        "logo": "bitbucket",
-        "background_color": "0052CC",
-        "logo_color": "white"
-    }
 ]
