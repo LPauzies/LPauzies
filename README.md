@@ -125,6 +125,9 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     <a href="https:&#x2F;&#x2F;aws.amazon.com&#x2F;">
       <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
     </a>
+    <a href="https:&#x2F;&#x2F;www.terraform.io&#x2F;">
+      <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-white?style=flat&logo=terraform&logoColor=black" />
+    </a>
   </p>
   <p>
     <a href="https:&#x2F;&#x2F;azure.microsoft.com&#x2F;fr-fr&#x2F;services&#x2F;devops&#x2F;">
@@ -221,7 +224,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ---
 <h5 align="center">This README file is updated every 12 hours.</h5>
-<h5 align="center">Last refresh: Friday, 21 July at 14:58 CEST</h5>
+<h5 align="center">Last refresh: Friday, 21 July at 16:45 CEST</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
