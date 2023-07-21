@@ -25,9 +25,6 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     <a href="https:&#x2F;&#x2F;www.java.com&#x2F;fr&#x2F;">
       <img alt="Java" src="https://img.shields.io/badge/-Java-EA2D2E?style=flat&logo=java&logoColor=white" />
     </a>
-    <a href="https:&#x2F;&#x2F;docs.microsoft.com&#x2F;fr-fr&#x2F;dotnet&#x2F;">
-      <img alt=".NET" src="https://img.shields.io/badge/-.NET-592C8C?style=flat&logo=.net&logoColor=white" />
-    </a>
     <a href="https:&#x2F;&#x2F;fr.wikibooks.org&#x2F;wiki&#x2F;Programmation_Bash&#x2F;Introduction">
       <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
     </a>
@@ -230,7 +227,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ---
 <h5 align="center">This README file is updated every 12 hours.</h5>
-<h5 align="center">Last refresh: Saturday, 15 July at 03:48 CEST</h5>
+<h5 align="center">Last refresh: Friday, 21 July at 14:58 CEST</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
