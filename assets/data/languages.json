@@ -48,14 +48,6 @@
         "logo_color": "white"
     },
     {
-        "name": ".NET",
-        "link": "https://docs.microsoft.com/fr-fr/dotnet/",
-        "style": "flat",
-        "logo": ".net",
-        "background_color": "592C8C",
-        "logo_color": "white"
-    },
-    {
         "name": "Bash",
         "link": "https://fr.wikibooks.org/wiki/Programmation_Bash/Introduction",
         "style": "flat",
