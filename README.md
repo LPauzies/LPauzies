@@ -48,9 +48,6 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     <a href="https:&#x2F;&#x2F;spring.io&#x2F;">
       <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
     </a>
-    <a href="https:&#x2F;&#x2F;docs.microsoft.com&#x2F;fr-fr&#x2F;dotnet&#x2F;core&#x2F;introduction">
-      <img alt=".NET Core" src="https://img.shields.io/badge/-.NET Core-592C8C?style=flat&logo=.net&logoColor=white" />
-    </a>
   </p>
   <p>
     <a href="https:&#x2F;&#x2F;pandas.pydata.org&#x2F;">
@@ -138,9 +135,6 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     </a>
     <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;">
       <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
-    </a>
-    <a href="https:&#x2F;&#x2F;bitbucket.org&#x2F;">
-      <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" />
     </a>
   </p>
   <p>
