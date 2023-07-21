@@ -14,5 +14,13 @@
         "logo": "amazonaws",
         "background_color": "232F3E",
         "logo_color": "white"
+    },
+    {
+        "name": "Terraform",
+        "link": "https://www.terraform.io/",
+        "style": "flat",
+        "logo": "terraform",
+        "background_color": "white",
+        "logo_color": "black"
     }
 ]
