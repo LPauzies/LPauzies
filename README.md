@@ -117,6 +117,9 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     <a href="https:&#x2F;&#x2F;redis.io&#x2F;">
       <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
     </a>
+    <a href="https:&#x2F;&#x2F;clickhouse.com&#x2F;">
+      <img alt="ClickHouse" src="https://img.shields.io/badge/-ClickHouse-000000?style=flat&logo=clickhouse&logoColor=white" />
+    </a>
   </p>
   <p>
     <a href="https:&#x2F;&#x2F;azure.microsoft.com&#x2F;">
@@ -224,7 +227,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ---
 <h5 align="center">This README file is updated every 12 hours.</h5>
-<h5 align="center">Last refresh: Thursday, 22 August at 03:22 CEST</h5>
+<h5 align="center">Last refresh: Wednesday, 28 August at 18:40 CEST</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
