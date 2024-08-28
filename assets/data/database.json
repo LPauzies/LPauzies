@@ -46,5 +46,13 @@
         "logo": "redis",
         "background_color": "DC382D",
         "logo_color": "white"
+    },
+    {
+        "name": "ClickHouse",
+        "link": "https://clickhouse.com/",
+        "style": "flat",
+        "logo": "clickhouse",
+        "background_color": "000000",
+        "logo_color": "white"
     }
 ]
