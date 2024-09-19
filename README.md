@@ -226,8 +226,8 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 </p>
 
 ---
-<h5 align="center">This README file is updated every 12 hours.</h5>
-<h5 align="center">Last refresh: Thursday, 19 September at 14:24 CEST</h5>
+<h5 align="center">This README file is updated every day.</h5>
+<h5 align="center">Last refresh: Thursday, 19 September at 14:26 CEST</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
