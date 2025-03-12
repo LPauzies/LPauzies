@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout current repository to Master branch
-        uses: actions/checkout@v1
+        uses: actions/checkout@v4
       - name: Setup NodeJs 16.x
         uses: actions/setup-node@v1
         with:
