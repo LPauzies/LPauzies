@@ -48,10 +48,10 @@
         "logo_color": "white"
     },
     {
-        "name": "Bash",
-        "link": "https://fr.wikibooks.org/wiki/Programmation_Bash/Introduction",
+        "name": "Rust",
+        "link": "https://www.rust-lang.org",
         "style": "flat",
-        "logo": "gnubash",
+        "logo": "rust",
         "background_color": "4EAA25",
         "logo_color": "white"
     }
