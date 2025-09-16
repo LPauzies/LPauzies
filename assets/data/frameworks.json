@@ -32,19 +32,27 @@
         "logo_color": "white"
     },
     {
-        "name": "Express",
-        "link": "https://expressjs.com/",
+        "name": "Apache Spark",
+        "link": "https://spark.apache.org/",
         "style": "flat",
-        "logo": "express",
-        "background_color": "000000",
+        "logo": "apachespark",
+        "background_color": "E25A1C",
         "logo_color": "white"
     },
     {
-        "name": "Spring",
-        "link": "https://spring.io/",
+        "name": "Dagster",
+        "link": "https://dagster.io/",
         "style": "flat",
-        "logo": "spring",
-        "background_color": "6DB33F",
+        "logo": "dagster",
+        "background_color": "4339BE",
         "logo_color": "white"
-    }
+    },
+    {
+        "name": "Airflow",
+        "link": "https://airflow.apache.org/",
+        "style": "flat",
+        "logo": "airflow",
+        "background_color": "E43921",
+        "logo_color": "white"
+    },
 ]
