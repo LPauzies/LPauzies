@@ -42,11 +42,14 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     <a href="https:&#x2F;&#x2F;nodejs.org&#x2F;">
       <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white" />
     </a>
-    <a href="https:&#x2F;&#x2F;expressjs.com&#x2F;">
-      <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
+    <a href="https:&#x2F;&#x2F;spark.apache.org&#x2F;">
+      <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
     </a>
-    <a href="https:&#x2F;&#x2F;spring.io&#x2F;">
-      <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+    <a href="https:&#x2F;&#x2F;dagster.io&#x2F;">
+      <img alt="Dagster" src="https://img.shields.io/badge/-Dagster-4339BE?style=flat&logo=dagster&logoColor=white" />
+    </a>
+    <a href="https:&#x2F;&#x2F;airflow.apache.org&#x2F;">
+      <img alt="Airflow" src="https://img.shields.io/badge/-Airflow-E43921?style=flat&logo=airflow&logoColor=white" />
     </a>
   </p>
   <p>
@@ -221,7 +224,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ---
 <h5 align="center">This README file is updated every day.</h5>
-<h5 align="center">Last refresh: Tuesday, 16 September at 15:50 CEST</h5>
+<h5 align="center">Last refresh: Tuesday, 16 September at 15:52 CEST</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
