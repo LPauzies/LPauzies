@@ -25,8 +25,8 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     <a href="https:&#x2F;&#x2F;www.java.com&#x2F;fr&#x2F;">
       <img alt="Java" src="https://img.shields.io/badge/-Java-EA2D2E?style=flat&logo=java&logoColor=white" />
     </a>
-    <a href="https:&#x2F;&#x2F;fr.wikibooks.org&#x2F;wiki&#x2F;Programmation_Bash&#x2F;Introduction">
-      <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+    <a href="https:&#x2F;&#x2F;www.rust-lang.org">
+      <img alt="Rust" src="https://img.shields.io/badge/-Rust-4EAA25?style=flat&logo=rust&logoColor=white" />
     </a>
   </p>
   <p>
@@ -227,7 +227,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ---
 <h5 align="center">This README file is updated every day.</h5>
-<h5 align="center">Last refresh: Tuesday, 16 September at 02:49 CEST</h5>
+<h5 align="center">Last refresh: Tuesday, 16 September at 15:49 CEST</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
