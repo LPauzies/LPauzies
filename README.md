@@ -65,12 +65,6 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
     <a href="https:&#x2F;&#x2F;scikit-learn.org&#x2F;">
       <img alt="Scikit Learn" src="https://img.shields.io/badge/-Scikit Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
     </a>
-    <a href="https:&#x2F;&#x2F;spark.apache.org&#x2F;">
-      <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
-    </a>
-    <a href="https:&#x2F;&#x2F;pypi.org&#x2F;">
-      <img alt="PyPI" src="https://img.shields.io/badge/-PyPI-3775A9?style=flat&logo=PyPI&logoColor=white" />
-    </a>
   </p>
   <p>
     <a href="https:&#x2F;&#x2F;angular.io&#x2F;">
@@ -227,7 +221,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ---
 <h5 align="center">This README file is updated every day.</h5>
-<h5 align="center">Last refresh: Tuesday, 16 September at 15:49 CEST</h5>
+<h5 align="center">Last refresh: Tuesday, 16 September at 15:50 CEST</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
