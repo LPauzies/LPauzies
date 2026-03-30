@@ -2,7 +2,7 @@
 
 My name is Lucas Pauzies, I am 29 years old and I am a <b>Lead Data/Software Engineer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Pau, France</b> since 9 years now. 
 <br>
-I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science</b>.
+I am also doing <b>DevOps</b> and some <b>Data Science</b>.
 
 ## Some technologies I am used to use <img src="assets/img/pepe-hacker.gif" alt="Pepe hacker" width="30">
 
@@ -224,7 +224,7 @@ I am also doing <b>DevOps</b>, <b>Data Engineering</b> and some <b>Data Science<
 
 ---
 <h5 align="center">This README file is updated every day.</h5>
-<h5 align="center">Last refresh: Monday, 30 March at 03:24 CEST</h5>
+<h5 align="center">Last refresh: Monday, 30 March at 17:38 CEST</h5>
 <br>
 <p align="center">
     <img src="https://github.com/LPauzies/LPauzies/actions/workflows/main.yaml/badge.svg" />
